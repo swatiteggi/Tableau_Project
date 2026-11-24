@@ -1,7 +1,7 @@
 # 🎬 Netflix Movies and TV Shows Data Analysis
 
 ## 📌 Project Overview
-This project analyzes Netflix Movies and TV Shows using Tableau Public. The dashboard provides insights into content distribution, ratings, genres, countries, and yearly trends.
+This project analyzes Netflix Movies and TV Shows using Tableau Public. The dashboard provides insights into content distribution, ratings, genres, countries and yearly trends.
 
 ## 🖥️ Dashboard Preview
 
@@ -21,7 +21,7 @@ This project analyzes Netflix Movies and TV Shows using Tableau Public. The dash
 4. Movies vs TV Shows Distribution.
 5. Movies and TV Shows by Year.
 6. Interactive filters for Type and Title.
-7. Content details including Genre, Description, Rating, and Duration.
+7. Content details including Genre, Description, Rating and Duration.
 
 ## 🔍 Key Insights
 - Movies account for approximately 68.42% of the content.
